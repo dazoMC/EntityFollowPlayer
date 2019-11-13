@@ -1,0 +1,5 @@
+name: EntityTYPE
+description: Entity Spawner
+api-version: '1.7.10'
+version: '1.0'
+main: me.tovl.entity.Main
